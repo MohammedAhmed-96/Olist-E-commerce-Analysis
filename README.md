@@ -57,7 +57,6 @@ The interactive dashboard provides key insights across two main pages:
 The dashboard features synced dropdown slicers for 'Year' and 'Customer State', allowing users to dynamically filter all visuals across both pages for detailed exploration.
 
 
-
 \## Project Structure
 
 ## How to View the Dashboard
@@ -70,4 +69,3 @@ You can view the dashboard by:
 
 ![Performance Overview](Pefromance Overview.png)
 ![Product & Customer Deep Dive](Proudct And Customer.png)
-
