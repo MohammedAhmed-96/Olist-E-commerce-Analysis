@@ -60,3 +60,14 @@ The dashboard features synced dropdown slicers for 'Year' and 'Customer State', 
 
 \## Project Structure
 
+## How to View the Dashboard
+
+You can view the dashboard by:
+1.  Downloading the `Olist_E-commerce_Dashboard.pbix` file and opening it with Power BI Desktop for an interactive experience.
+2.  Viewing the static `Olist_E-commerce_Dashboard.pdf` file, which contains all dashboard pages.
+
+## Screenshots
+
+![Performance Overview](Pefromance Overview.png)
+![Product & Customer Deep Dive](Proudct And Customer.png)
+
